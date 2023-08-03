@@ -1612,6 +1612,15 @@ html.light .header._header-scroll {
 html.light .header__logo_1 {
   display: none;
 }
+html.light .icon-menu::before, html.light .icon-menu::after, html.light .icon-menu span {
+  background-color: #263238;
+}
+html.light .menu__body {
+  background-color: #fff;
+}
+html.light .menu__body::before {
+  background-color: rgba(229, 229, 229, 0.7411764706);
+}
 html.light .menu__link {
   color: #263238;
 }
