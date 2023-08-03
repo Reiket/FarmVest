@@ -1615,7 +1615,7 @@ html.light .header__logo_1 {
 html.light .icon-menu::before, html.light .icon-menu::after, html.light .icon-menu span {
   background-color: #263238;
 }
-html.light .menu__body {
+html.light .menu__body ._active {
   background-color: #fff;
 }
 html.light .menu__body::before {
